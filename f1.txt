@@ -1,1 +1,1 @@
-este seria el main del software
+este seria el main del programa
